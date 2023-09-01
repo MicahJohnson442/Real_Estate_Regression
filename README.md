@@ -8,3 +8,11 @@ I was tasked to train a regression model that had to achieve the lowest Root Mea
 A regression model is a simple, common, and highly useful data analysis technique, often colloquially referred to as "fitting a line." 
 In its simplest form, regression fits a straight line between a one variable (feature) and another (label). 
 In more complicated forms, regression can find non-linear relationships between a single label and multiple features. 
+
+# References 
+
+Yeh, I. C., & Hsu, T. K. (2018). Building real estate valuation models with comparative approach through case-based reasoning. Applied Soft Computing, 65, 260-271. 
+
+It was obtained from the UCI dataset repository (Dua, D. and Graff, C. (2019). UCI Machine Learning Repository. Irvine, CA: University of California, School of Information and Computer Science). 
+
+ 
